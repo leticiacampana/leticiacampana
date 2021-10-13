@@ -2,6 +2,9 @@
 
 Olá, estou começando agora no mundo da programação, gosto de resolver problemas e influenciar positivamente a vida de outras pessoas!
 
+👾 Um pouco sobre mim: 👾
+
+🎯 Pontual 🎯
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focada nas tecnologias .NET e Backend.
 <br/> :computer: &nbsp; Minha futura stack: C#, .NET Core, JavaScript & Angular.
