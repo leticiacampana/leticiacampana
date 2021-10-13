@@ -1,4 +1,4 @@
-<h1 align="center"> :man_technologist: 🌎 Hello World, I'am Letícia! 🌎</h1>
+<h1 align="center"> 🌎 Hello World, I'am Letícia! 🌎</h1>
 
 Olá, estou começando agora no mundo da programação, gosto de resolver problemas e influenciar positivamente a vida de outras pessoas!
 
