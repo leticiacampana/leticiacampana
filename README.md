@@ -5,10 +5,8 @@ Olá, estou começando agora no mundo da programação, gosto de resolver proble
 👾 Um pouco sobre mim: 👾
 
 🎯 Pontual 🎯
-<br/> Eu amo aprender e compartilhar conhecimento!
 <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focada nas tecnologias .NET e Backend.
 <br/> :computer: &nbsp; Minha futura stack: C#, .NET Core, JavaScript & Angular.
-<br/> 💬  &nbsp; Sobre mim: Sou comunicativa, autodidata, paciente e resiliente.
 <br/> :sunglasses: &nbsp; Hobbies / Paixões : Sou apaixonada por gatos e tempo de qualidade.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LetíciaCampana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacampana/)](https://www.linkedin.com/in/leticiacampana/) 
 | 
